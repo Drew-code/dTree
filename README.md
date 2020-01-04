@@ -6,7 +6,7 @@ I would always find simple scripts with differet models, but no one exampling wh
 In this series I hope to help those of you who want to get into machine learning but feel overwhelmed.  
  
 ## Prerequisites
-1. Python 3.7 or higher  
+1. Python 3.7 or newer  
 2. Scikit-Learn module for Python  
 3. Pandas module for Python  
 4. Numpy Modules for Python
