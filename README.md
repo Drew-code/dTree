@@ -1,9 +1,10 @@
 # Decision Tree Modeling
 Quick Start Guide to Decision Tree Modeling With Python  
 ## Introduction  
-A lot of people ask me what is the easiest way to get into machine learning without knowing a whole lot about coding.  
-I would always find simple scripts with differet models, but no one exampling what the code is doing in plain english.  
-In this series I hope to help those of you who want to get into machine learning but feel overwhelmed.  
+Decision Tree modeling is used to predict outcomes when each variable is somehow related to each other.Think of the model  
+as a big tree of if/then statements where there are multiple paths. All of the dataset and varibales in the dataset are used  
+to create a model. Random forest modeling, which I will show in another post, uses random rows of data and random variables  
+then averages the results out. This can be good when one variable is too strongly correlated to the result.
  
 ## Prerequisites
 1. Python 3.7 or newer  
