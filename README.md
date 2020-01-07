@@ -10,7 +10,7 @@ then averages the results out. This can be good when one variable is too strongl
 1. Python 3.7 or newer  
 2. Scikit-Learn module for Python  
 3. Pandas module for Python  
-4. Numpy Modules for Python
+4. Numpy module for Python
   
 ## Walkthough  
 Start by importing all modules you will need at the beginning of your script. These include: Pandas, Scikit-Learn,  
